@@ -1,0 +1,109 @@
+/* Background styles */
+/* body {
+    background-image: url('markup_47067.png');
+}
+
+/* Glassmorphism card effect */
+/* .img {
+    background-image: url('one.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+} */
+
+.card {
+    margin: auto;
+    width: 100%;
+}
+
+
+body {
+
+    background-color: black;
+    font-family: 'Anek Latin';
+    font-size: 24px;
+    margin: 50px;
+    color: grey;
+}
+
+
+.ima {
+    text-align: center;
+
+
+    width: 100%;
+}
+
+img {
+    height: 300px;
+    width: 300px;
+    border-radius: 10px 100px / 120px;
+    margin: 3% auto;
+}
+
+::selection {
+    background: salmon;
+    color: white;
+}
+
+b {
+    font-size: 31px;
+
+}
+
+.progress {
+    border: 1px solid #B0B0B0;
+    width: 100%;
+    border-radius: 4px;
+    box-shadow: 0 0 3px #B0B0;
+    backdrop-filter: blur(2px) brightness(101%);
+}
+
+.bar {
+    width: 100%;
+    background: rgb(237, 243, 237);
+    box-shadow: inset 0px 12px 1.7px #FFFFFF33;
+    border-radius: 3px;
+    color: white;
+    text-align: center;
+}
+
+.bar.telugu {
+    background: grey;
+    width: 80%;
+}
+
+.bar.hindi {
+    background: grey;
+    width: 99%;
+}
+
+.bar.english {
+    background: grey;
+    width: 98%;
+}
+
+.bar.english-grammer {
+    background: grey;
+    width: 94%;
+}
+
+.bar.maths {
+    background: grey;
+    width: 96%;
+}
+
+.bar.m1 {
+    background: grey;
+    width: 99%;
+}
+
+.bar.m2 {
+    background: grey;
+    width: 95%;
+}
+
+.bar.science {
+    background: grey;
+    width: 96%;
+}
