@@ -50,6 +50,10 @@ b {
     font-size: 31px;
 
 }
+h1 {
+    font-size: 60px;
+    color: whitesmoke;
+}
 
 .progress {
     border: 1px solid #B0B0B0;
